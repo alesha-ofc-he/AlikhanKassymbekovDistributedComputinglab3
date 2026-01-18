@@ -2,7 +2,7 @@
 
 This repository contains a simplified implementation of the Raft Consensus Algorithm ("Raft Lite") written in Python. It demonstrates core distributed systems concepts including Leader Election, Log Replication, and Fault Tolerance using HTTP JSON APIs.
 
-## 📋 Prerequisites & Infrastructure
+## Prerequisites & Infrastructure
 
 Before running the code, you must provision the infrastructure. This project is designed to run on **3 separate nodes** (Virtual Machines), though it can be tested locally on different ports.
 
